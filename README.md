@@ -51,6 +51,11 @@ btw if you dont go into insert mode you can hit __":q"__ and __"enter"__ to leav
     PATH=${PATH}:~/bin  
     PATH=${PATH}:/usr/local/bin  
 
+##killallae.sh  
+
+This is nearly the same as killae.sh but you don't have to provide a AE version number. It just kills the last started process called Adobe After Effects CS* 
+This script needs still some work but still thanks @stevennikolic  
+
 ##License:  
 
                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
