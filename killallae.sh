@@ -17,9 +17,9 @@ output=`ps -ax|grep Ad[o]be\ After\ Effects\ CS*`;
 set -- $output;
 pid=$1;
 if [ -z $pid ];then
-      echo "No Adobe After Effects process is running at the time";
-	        exit;
-	fi
-	echo "I'm about to kill process " $pid;
-	kill -SEGV $pid;
+    echo "No Adobe After Effects process is running at the time";
+    exit;
+fi
+echo "I'm about to kill process " $pid;
+kill -SEGV $pid;
 
