@@ -1,10 +1,8 @@
-killae
+killae.sh  
 ======
 
 This is a tiny shell script for killing ae on mac  
-
-##killae.sh  
-This shell script is the result of a sunday morning mini idea after seeing [this quicktip](http://ae.tutsplus.com/tutorials/workflow/quick-tip-after-effects-force-quit-and-save/) by [Joe Lilli](http://ae.tutsplus.com/author/joe-lilli/)  
+It is the result of a sunday morning mini idea after seeing [this quicktip](http://ae.tutsplus.com/tutorials/workflow/quick-tip-after-effects-force-quit-and-save/) by [Joe Lilli](http://ae.tutsplus.com/author/joe-lilli/)  
 
 ##Usage:  
     # kill AE CS 6 just type 
