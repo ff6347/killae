@@ -47,7 +47,7 @@ Make sure the path `/usr/local/bin` is in your $PATH variable in your .bash_prof
 btw if you dont go into insert mode you can hit __":q"__ and __"enter"__ to leave vi.  
 
 
-    \# general path munging  
+    # general path munging  
     PATH=${PATH}:~/bin  
     PATH=${PATH}:/usr/local/bin  
 
