@@ -25,8 +25,8 @@ than
 you are in the vi editor  
 - now hit __"i"__ once for the insert mode  
 - and copy paste the script into it.  
-- Than hit "ESC"  
-- followed by holding "SHIFT" and hitting "z" two time.  
+- Than hit __"ESC"__  
+- followed by holding __"SHIFT"__ and hitting __"z"__ two time.  
 
 (Yes this is a wired editor. but useful).  
 
