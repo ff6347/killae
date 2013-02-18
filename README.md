@@ -56,6 +56,9 @@ btw if you dont go into insert mode you can hit __":q"__ and __"enter"__ to leav
 This is nearly the same as killae.sh but you don't have to provide a AE version number. It just kills the last started process called Adobe After Effects CS* 
 This script needs still some work but still thanks [@stevennikolic](https://github.com/stevennikolic)  
 
+##Windows  
+On windows you can use `taskkill` and `tasklist` for that. Have a lokk [here](http://www.tech-recipes.com/rx/446/xp_kill_windows_process_command_line_taskkill/).  
+
 ##License:  
 
                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
